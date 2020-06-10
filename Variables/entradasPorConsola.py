@@ -1,0 +1,5 @@
+Dato = input("Ingrese un número \n")
+print("El número ingresado es: " + Dato)
+Dato = input("Ingrese una palabra \n")
+print("La palabra ingresada es: " + Dato)
+input()
